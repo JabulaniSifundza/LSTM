@@ -1,5 +1,7 @@
 # LSTM
-Stock Price Prediction using LSTM
+# Stock Price Prediction using LSTM
+
+
 This repository contains a Jupyter notebook that implements a Long Short-Term Memory (LSTM) model to predict the stock price of a given security. The notebook utilizes Python, Keras, and various APIs to fetch historical stock data, train the LSTM model, and make predictions.
 
 Prerequisites
